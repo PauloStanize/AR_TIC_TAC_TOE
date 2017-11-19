@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="tabuleiro" size="50.000000 50.000000" />
+    <ImageTarget name="jogada" size="10.000000 10.000000" />
     <ImageTarget name="vuforia_stones_vergium" size="50.000000 35.000000" />
     <ImageTarget name="player_O" size="5.000000 5.054645" />
     <ImageTarget name="player_X" size="5.000000 5.000000" />
